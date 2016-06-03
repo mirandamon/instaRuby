@@ -1,0 +1,4 @@
+%h2 myInsta
+-@posts.each do |post|
+  =image_tag post.image.url(:medium)
+  =post.caption
