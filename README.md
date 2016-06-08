@@ -7,9 +7,9 @@
 ##Features:
 * AJAX & streamlining user experience.
 * Image previews before uploading.
-* JQuery & Rails. How the two combine surprisingly well.
-* Custom notifications feature for any web application.
+* JQuery & Rails. 
+* Custom notifications features.
 * Adding 'likes' to a post or other component with Rails.
-* Creating a follower / following relationship between your users, as seen on social networks such as Twitter or Instagram.
+* Creating a follower / following relationship between  users, as seen on social networks such as Twitter or Instagram.
 * Profile pages for individual users.
 
